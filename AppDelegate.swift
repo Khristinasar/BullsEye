@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  BullEye
-//
-//  Created by Khristina Sheer on 3/10/18.
-//  Copyright © 2018 Khristina Sheer. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
